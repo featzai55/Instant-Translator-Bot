@@ -6,7 +6,7 @@
   * pip install json
   * pip install configparser
   
-> You: en:你的英语真的差哈哈哈 
+> You: en:你的英语真的差哈哈哈\
 > Bot: Your English is really bad ha ha ha 
 
 ### Usage:
