@@ -1,5 +1,8 @@
 # Instant Translator
 
+Telegram Bot It uses Google Text Translator APIs to translate language from source to destination language.
+
+
 ## Dependencies:
   * pip install requests
   * pip install googletrans
