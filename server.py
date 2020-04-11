@@ -21,13 +21,14 @@ def run():
                 update_id = item["update_id"]
                 try:
                     message = str(item["message"]["text"])
-                    from_ = item["message"]["from"]["id"]
-                    from_user= item["message"]["from"]["first_name"]
-                    reply = makeReply(message,from_user)
-                    bot.sendMessage(reply, from_)
                 except:
                     message = None
                     continue
+                
+                from_ = item["message"]["from"]["id"]
+                from_user= item["message"]["from"]["first_name"]
+                reply = makeReply(message,from_user)
+                bot.sendMessage(reply, from_)     
 
 
 if __name__ == "__main__":
