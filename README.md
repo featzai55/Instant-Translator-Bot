@@ -2,7 +2,7 @@
 
 Telegram Bot It uses Google Text Translator APIs to translate language from source to destination language.
 
-#Demo
+# Demo
 Check it out at https://t.me/Instant_TranslatorBot
 
 <hr>
