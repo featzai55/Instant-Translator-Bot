@@ -17,10 +17,10 @@ Youtube link : https://www.youtube.com/watch?v=19ic_yRjY24
 
 
 ## Dependencies:
-  * pip install requests
-  * pip install googletrans
-  * pip install json
-  * pip install configparser
+  * import requests
+  * import googletrans
+  * import json
+  * import configparser
   
 ### Usage:
  * Paste the bot API token inside `token.cfg`
