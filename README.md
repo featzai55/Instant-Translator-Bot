@@ -1,6 +1,6 @@
 # Instant Translator
 
-Telegram Bot It uses Google Text Translator APIs to translate language from source to destination language.
+Telegram Bot It uses Google Text Translator APIs to translate language from source to destination language
 
 # Demo
 Youtube link : https://www.youtube.com/watch?v=19ic_yRjY24
