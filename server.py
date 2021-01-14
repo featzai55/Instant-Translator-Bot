@@ -4,7 +4,6 @@ import sys
 bot = Chatbot("token.cfg")
 
 
-
 def makeReply(msg,user):
     reply = None
     if msg is not None:
